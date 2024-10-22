@@ -1,2 +1,3 @@
 # showcase
-This repo includes my sample implementations.
+
+This repo includes some of my sample implementations.
